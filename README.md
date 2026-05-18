@@ -31,7 +31,7 @@
 4. Открыть окружение .\.venv\Scripts\Activate.ps1
 5. Установить зависимости pip install -r requirements.txt
 
-
+Создавалась на Win11, с другими системами не проверялась.
 
 The program is designed for sleep schedule tracking and takes the following parameters into account:
 
