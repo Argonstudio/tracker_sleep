@@ -35,8 +35,8 @@
 
 The program is designed for sleep schedule tracking and takes the following parameters into account:
 
-1. Bedtime (date day:month:year).
-2. Wake-up time (date day:month:year).
+1. Bedtime (date day:month:year Exact time).
+2. Wake-up time (date day:month:year Exact time).
 3. Sleep duration.
 4. Wake duration.
 5. Shift — how much later or earlier bedtime was compared to the previous day.
