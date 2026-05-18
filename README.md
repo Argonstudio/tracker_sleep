@@ -70,3 +70,4 @@ For installation, create a folder, download the desired program version file, th
 5. Install dependencies: pip install -r requirements.txt
 
 The program is only available in Russian.
+Developed on Windows 11; compatibility with other operating systems has not been tested.
